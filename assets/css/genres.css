@@ -1,0 +1,22 @@
+.genres{
+    background-color: white;
+    margin-top: 40px;
+    max-width: 165px;
+    max-height: 534px;
+}
+.genres__heading{
+    color: gray;
+    padding: 15px 0;
+}
+.genres__item{
+    list-style-type: none;
+    padding: 15px 0;
+    transition: transform 0.3s;
+}
+.genres__icon{
+    padding-right: 20px;
+}
+.genres__item:hover{
+    color: lightblue;
+    transform: translateX(5px);
+}

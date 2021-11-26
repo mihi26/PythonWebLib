@@ -1,0 +1,22 @@
+.user__list{
+    text-align: center;
+    margin-top: 40px;
+}
+.user__heading{
+    padding-bottom: 30px;
+}
+.user__table{
+    width: 100%;
+}
+.user__table__item{
+    padding: 20px;
+}
+.action__button{
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    color: white;
+    background: brown;
+    padding: 10px;
+    min-width: 50px;
+}

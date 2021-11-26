@@ -1,0 +1,27 @@
+.admin__options{
+    margin-top: 40px;
+    max-width: 165px;
+    max-height: 534px;
+}
+.book__heading,
+.account__heading{
+    color: gray;
+    padding: 15px 0;
+}
+.book__admin{
+    margin-bottom: 30px;
+}
+.book__admin,
+.account__admin{
+    background-color: brown;
+}
+.option__item{
+    list-style-type: none;
+    padding: 15px 0;
+    transition: transform 0.3s;
+    text-decoration: none;
+}
+.option__item:hover{
+    color: lightblue;
+    transform: translateX(5px);
+}

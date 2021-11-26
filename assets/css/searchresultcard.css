@@ -1,0 +1,22 @@
+.search_result__book-card{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 40px;
+}
+.book_pic{
+    width: 180px;
+    height: 249px;
+}
+.book__info{
+    padding-left: 5px;
+    border: white solid 1px;
+    font-size: 20px;
+    width: 100%;
+}
+.book__info__name{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.book__info__author{
+    padding-bottom: 50px;
+}

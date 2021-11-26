@@ -1,0 +1,14 @@
+.book__card{
+    background-color: white;
+    width: 180px;
+    margin-bottom: 50px;
+}
+.book_img{
+    width: 180px;
+    height: 249px;
+}
+.book__card__info{
+    font-size: 20px;
+    padding-left: 5px;
+    min-height: 95px;
+}

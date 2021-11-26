@@ -1,0 +1,30 @@
+.register__layout{
+    background-color: grey;
+    width: 100vw;
+    min-height: 100vh;
+    overflow-x:hidden;
+}
+.register__layout__title{
+    font-size: 40px;
+	padding-top: 250px;
+    padding-left: 250px;
+}
+form{
+    padding-top: 200px;
+}
+.register__info{
+    line-height: 50px;
+    width: 63%;
+    border: none;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    outline: none;
+    padding-left: 10px;
+    font-size: 15px;
+}
+.register__action{
+    width: 439px;
+    padding: 15px;
+    margin: 10px;
+    border: none;
+}
